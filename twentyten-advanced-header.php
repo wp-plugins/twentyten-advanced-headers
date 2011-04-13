@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Twenty Ten Advanced Header
-Plugin URI: http://www.coolryan.com/twentyten-advanced-header/
+Plugin Name: TwentyTen Advanced Header
+Plugin URI: http://www.coolryan.com/plugins/twentyten-advanced-headers/
 Description: Turbo-Charge your twenty ten header!
 Version: 1.0
 Author: Cool Ryan
